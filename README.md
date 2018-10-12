@@ -1,2 +1,2 @@
 # CSCI-561
-Foundation of Artificial Intelligence
+Foundations of Artificial Intelligence
